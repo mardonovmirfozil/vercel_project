@@ -9,6 +9,9 @@ function App() {
         hic reiciendis voluptate expedita nulla. Magni vel illum temporibus
         voluptates
       </h1>
+      <h2>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, illum.
+      </h2>
     </>
   );
 }
